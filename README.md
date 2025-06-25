@@ -69,19 +69,13 @@ Or manually import `NVIDIA_Telemetry_Blocklist_Domains.csv` into your Pi-hole or
 
 ---
 
-===============================
  ** MAY BREAK NVIDA APPS **
-===============================
-
----
 
 login.nvgs.nvidia.cn
 118.193.97.200
 118.193.97.209
 118.193.97.211
 118.193.97.221
-
----
 
 accounts.nvgs.nvidia.cn
 44.213.48.29
@@ -90,8 +84,6 @@ accounts.nvgs.nvidia.cn
 71.131.239.187
 140.179.137.34
 
----
-
 accounts.nvgs.nvidia.com
 2400:7fc0:8e92:13ca:4625:ecf7:33a:1ad0
 2400:7fc0:8e92:13cb:2c12:ea80:7940:504c
@@ -99,19 +91,13 @@ accounts.nvgs.nvidia.com
 2600:1f18:1a58:e203:4b65:ae82:ba57:bb95
 2600:1f18:1a58:e204:5f31:b4bd:524e:d239
 
----
-
 login.nvgs.nvidia.com
 3.161.213.54
 3.161.213.7
 3.161.213.76
 3.161.213.97
 
-===============================
  **PURE TELEMETRY **
-===============================
-
----
 
 gfwsl.geforce.com
 2001:4c0:1:2006::8eb0:d0b0
@@ -119,37 +105,25 @@ gfwsl.geforce.com
 142.176.208.155
 142.176.208.176
 
----
-
 nvidia.telemetry.internet.microsoft.com
 gfe.nvidia.com
 72.25.64.38
 72.25.64.8
 
----
-
 gfe.geforce.com
 nvidia.com.edgesuite.net
 telemetry.nvidia.com
-
----
 
 telemetry.gfe.nvidia.com
 72.25.64.16
 72.25.64.46
 
----
-
 services.gfe.nvidia.com
 142.176.208.162
 142.176.208.144
 
----
-
 events.gfe.nvidia.com
 72.25.64.32
-
----
 
 img.nvidiagrid.net
 2600:140a:a000::172b:a121
@@ -157,32 +131,22 @@ img.nvidiagrid.net
 23.53.4.17
 23.53.4.32
 
----
-
 images.nvidiagrid.net
 2600:140a:a000::172b:a118
 2600:140a:a000::172b:a121
 23.53.4.32
 23.53.4.17
 
----
-
 images.nvidia.com
 23.53.4.11
 23.53.4.17
 
----
-
 ls.dtrace.nvidia.com
 ota.nvidia.com
-
----
 
 ota-downloads.nvidia.com
 142.176.208.178
 142.176.208.137
-
----
 
 rds-assets.nvidia.com
 2600:140a:a000::172b:a120
@@ -190,15 +154,11 @@ rds-assets.nvidia.com
 23.53.4.17
 23.53.4.11
 
----
-
 assets.nvidiagrid.net
 2600:140a:a000::172b:a121
 2600:140a:a000::172b:a118
 23.53.4.17
 23.53.4.32
-
----
 
 nvidia.tt.omtrdc.net
 63.140.39.123
@@ -211,8 +171,6 @@ nvidia.tt.omtrdc.net
 63.140.38.204
 63.140.39.210
 63.140.38.130
-
----
 
 api.commune.ly
 52.26.80.135
