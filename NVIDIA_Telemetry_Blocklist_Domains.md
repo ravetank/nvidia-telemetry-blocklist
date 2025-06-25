@@ -1,0 +1,25 @@
+| Group                                   | Domains                                 |
+|:----------------------------------------|:----------------------------------------|
+| login.nvgs.nvidia.cn                    | login.nvgs.nvidia.cn                    |
+| accounts.nvgs.nvidia.cn                 | accounts.nvgs.nvidia.cn                 |
+| accounts.nvgs.nvidia.com                | accounts.nvgs.nvidia.com                |
+| login.nvgs.nvidia.com                   | login.nvgs.nvidia.com                   |
+| gfwsl.geforce.com                       | gfwsl.geforce.com                       |
+| nvidia.telemetry.internet.microsoft.com | nvidia.telemetry.internet.microsoft.com |
+| gfe.nvidia.com                          | gfe.nvidia.com                          |
+| gfe.geforce.com                         | gfe.geforce.com                         |
+| nvidia.com.edgesuite.net                | nvidia.com.edgesuite.net                |
+| telemetry.nvidia.com                    | telemetry.nvidia.com                    |
+| telemetry.gfe.nvidia.com                | telemetry.gfe.nvidia.com                |
+| services.gfe.nvidia.com                 | services.gfe.nvidia.com                 |
+| events.gfe.nvidia.com                   | events.gfe.nvidia.com                   |
+| img.nvidiagrid.net                      | img.nvidiagrid.net                      |
+| images.nvidiagrid.net                   | images.nvidiagrid.net                   |
+| images.nvidia.com                       | images.nvidia.com                       |
+| ls.dtrace.nvidia.com                    | ls.dtrace.nvidia.com                    |
+| ota.nvidia.com                          | ota.nvidia.com                          |
+| ota-downloads.nvidia.com                | ota-downloads.nvidia.com                |
+| rds-assets.nvidia.com                   | rds-assets.nvidia.com                   |
+| assets.nvidiagrid.net                   | assets.nvidiagrid.net                   |
+| nvidia.tt.omtrdc.net                    | nvidia.tt.omtrdc.net                    |
+| api.commune.ly                          | api.commune.ly                          |
