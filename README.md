@@ -72,14 +72,10 @@ Or manually import `NVIDIA_Telemetry_Blocklist_Domains.csv` into your Pi-hole or
  ** MAY BREAK NVIDA APPS **
 
 login.nvgs.nvidia.cn
-118.193.97.200;118.193.97.209;118.193.97.211;118.193.97.221;
+118.193.97.200 ; 118.193.97.209 ; 118.193.97.211 ; 118.193.97.221 ;
 
 accounts.nvgs.nvidia.cn
-44.213.48.29
-52.205.95.17
-52.7.55.151
-71.131.239.187
-140.179.137.34
+44.213.48.29 ; 52.205.95.17 ; 52.7.55.151 ; 71.131.239.187 ; 140.179.137.34
 
 accounts.nvgs.nvidia.com
 2400:7fc0:8e92:13ca:4625:ecf7:33a:1ad0
